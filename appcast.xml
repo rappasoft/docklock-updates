@@ -3,13 +3,14 @@
     <channel>
         <title>Docklock</title>
         <item>
-            <title>1.0</title>
-            <pubDate>Mon, 19 Oct 2026 16:30:28 -0400</pubDate>
+            <title>1.0.1</title>
+            <description><![CDATA[<p>Adds a Launch at Login option in the Docklock window and pin menu. The checkmark follows your Mac’s Login Items setting.</p>]]></description>
+            <pubDate>Wed, 21 Oct 2026 08:41:52 -0400</pubDate>
             <link>https://rappasoft.com/apps/docklock</link>
-            <sparkle:version>7</sparkle:version>
-            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:version>8</sparkle:version>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/rappasoft/docklock-updates/releases/download/updates/Docklock-1.0-7.zip" length="3220197" type="application/octet-stream" sparkle:edSignature="4piH2OIsAAZH5wf6cjUCdZhRmWvIJorAOwZw6cQp4V6TDdqGdr3KfG8HOyRHVXRrVz9OYOpQuMpqod/Dg8q5DA=="/>
+            <enclosure url="https://github.com/rappasoft/docklock-updates/releases/download/updates/Docklock-1.0.1-8.zip" length="3221852" type="application/octet-stream" sparkle:edSignature="F8n7/7kUzX/uX9srKCax7Zh67HskzS64Tg4lgxXZwt0SGhfTzRwxB0tPRd5Ziux6Cw7F2DkEKIpCpE32fN4hAg=="/>
         </item>
     </channel>
 </rss>
